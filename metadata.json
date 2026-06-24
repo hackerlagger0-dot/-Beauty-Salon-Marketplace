@@ -1,0 +1,6 @@
+{
+  "name": "Beauty Salon Marketplace",
+  "description": "A comprehensive city-based Beauty Salon Marketplace featuring easy discovery, detailed profiles, online bookings, reviews, salon owner dashboard, and AI-powered hairstyle/skincare recommendations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
